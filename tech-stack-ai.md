@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tech Stack (AI)
 
 ## 1. Run Questions
@@ -124,3 +125,6 @@
 | | | |
 
 ## 3. System Overview
+=======
+AI overview
+>>>>>>> upstream/main
