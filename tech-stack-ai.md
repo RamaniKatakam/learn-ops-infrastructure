@@ -1,3 +1,7 @@
+# Tech Stack (AI)
+
+## 1. Run Questions
+
 ### 1a. Config Files
 
 | Config File | Location | Config Value | What it's for | How it's used |
@@ -86,3 +90,37 @@
 | `pytest.ini` | `learn-ops-api/` | `--nomigrations` | Skip migrations during tests | Builds the test schema directly from models, cutting suite startup time significantly |
 | `pytest.ini` | `learn-ops-api/` | `testpaths` | Restrict pytest's search path | Only tests under this folder are collected; prevents scanning the entire project |
 | `pytest.ini` | `learn-ops-api/` | `markers` | Custom test markers | Developers tag tests with `@pytest.mark.unit` etc. to run targeted subsets with `-m` |
+
+### 1b. How to Start It
+
+### 1c. Where to Access It
+
+| Service | Port | URL |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+### 1d. Service Dependencies
+
+| Service | Depends On | Why |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+### 1e. Main Entry Points
+
+| Service | Startup File | Routes / URL Config File |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+## 2. Services
+
+| Service Name | Tech Stack (including version) | Purpose |
+|---|---|---|
+| | | |
+
+## 3. System Overview
