@@ -2,4 +2,6 @@
 
 ## 1. Tracing
 
-[Trace Notes](observability-ai-{param1}-{param2}-{param3}.md)
+[Trace Notes Client](observability-ai-learn-ops-client-StudentViews-StudentDashboard.md)
+
+[Trace Notes Api](observability-ai-learn-ops-api-LearningAPI-students.md)
